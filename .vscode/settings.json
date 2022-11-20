@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "boolean.h": "c",
+        "union_map.h": "c",
+        "queue.h": "c"
+    }
+}
